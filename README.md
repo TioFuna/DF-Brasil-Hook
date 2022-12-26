@@ -25,7 +25,7 @@ Reforçando mais uma vez, estejam cientes dos riscos.
 
 ## Como instalar
 
-* Baixe o arquivo compactado e descompacte ele na raiz do jogo.<br>
+* Baixe o arquivo compactado `Dwarf_Fortress_PTBR_v_.7z` e descompacte ele na raiz do jogo.<br>
 * Execute o arquivo executável. `df-steam-hook-launcher.exe`<br>
 O jogo deverá rodar com as traduções aplicadas.
 
